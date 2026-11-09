@@ -10,8 +10,6 @@ Written in Rust, with zero external dependencies.
 ![Terminal](https://img.shields.io/badge/terminal-truecolor-blueviolet)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-<img src="docs/demo.gif" alt="Spudwave demo" width="700">
-
 </div>
 
 ---
